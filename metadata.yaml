@@ -1,10 +1,16 @@
 _repo: -1683-1920-The-Fourteen-Points-and-What-Became-of-ThemForeign-Propaganda-in-the-Public-School__50075
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50075-h/images/cover.jpg
 creator:
   author:
     agent_name: Schrader, Frederick Franklin
     gutenberg_agent_id: '45694'
     url: http://www.gutenberg.org/2009/agents/45694
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50075#-1683-1920-The-Fourteen-Points-and-What-Became-of-ThemForeign-Propaganda-in-the-Public-School_
 gutenberg_issued: '2015-09-29'
 gutenberg_type: Text
 identifiers:
